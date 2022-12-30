@@ -16,5 +16,7 @@ What to expect:
 
 - a vague starting point;
 - a vague conclusion, if any at all;
+- incomplete explanations;
+- inconsistent terminology;
 - many mistakes;
 - no finished software that you could use as is.
